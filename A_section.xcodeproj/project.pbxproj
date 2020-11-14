@@ -106,7 +106,7 @@
 		328105FE25602D3600CCAF69 /* A_section */ = {
 			isa = PBXGroup;
 			children = (
-				3281063825602E7D00CCAF69 /* AViewController */,
+				3281063E2560393B00CCAF69 /* Classes */,
 				328105FF25602D3600CCAF69 /* AppDelegate.h */,
 				3281060025602D3600CCAF69 /* AppDelegate.m */,
 				3281060225602D3600CCAF69 /* SceneDelegate.h */,
@@ -138,6 +138,14 @@
 				3281062825602D3800CCAF69 /* Info.plist */,
 			);
 			path = A_sectionUITests;
+			sourceTree = "<group>";
+		};
+		3281063E2560393B00CCAF69 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				3281063825602E7D00CCAF69 /* AViewController */,
+			);
+			path = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
